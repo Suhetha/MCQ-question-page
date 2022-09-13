@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>qp</title>
+<style>
+h2{
+font-family:sans-serif;
+color:indigo;
+}
+</style>
+</head>
+<body>
+<h2><b>HTML multiple choice questions(MCQ's)<b></h2><br>
+<p>1)HTML stands for -</p><br>
+<form>
+<label for ="ans">a. High Text Machine Language</label><br>
+<label for ="ans">b. HyperText and links Markup Language</label><br>
+<label for ="ans">c. HyperText Markup Language</label><br>
+<label for ="ans">d. None of these</label><br>
+<p>2)The correct sequence oh HTML tags for starting a webpage is -<p><br>
+<label for ="ans1">a. Head,Title,HTML,body</label><br>
+<label for ="ans1">b. HTML,Body,Title,Head</label><br>
+<label for ="ans1">c. HTML,Head,Ttile,Body</label><br>
+<label for ="ans1">d. HTML,Head,Ttile,body</label><br>
+<p>3)Which of the following element is responsible for making the text bold in
+HTML?</p><br>
+<label for ="ans3">a. pre</label><br>
+<label for ="ans3">b. a </label><br>
+<label for ="ans3">c. b </label><br>
+<label for ="ans3">d. br</label><br>
+<p>4)Which of the following tag is used for inserting the largest heading in
+HTML?</p><br>
+<label for ="ans6">a. h3</label><br>
+<label for ="ans6">b. h1</label><br>
+<label for ="ans6">c. h5</label><br>
+<label for ="ans6">d. h6</label><br>
+<p>5)Which of the following tag is used to insert a line-break in
+HTML?</p><br>
+<label for ="ans7">a. br</label><br>
+<label for ="ans7">b. a</label><br>
+<label for ="ans7">c. pre</label><br>
+<label for ="ans7">d. b</label><br>
+<p>6)How to create an underlined list(a list with the list items in bullets) in
+HTML?<p><br>
+</form>
+</body>
+</html>
